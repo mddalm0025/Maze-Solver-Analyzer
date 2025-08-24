@@ -26,5 +26,25 @@ python3 server.py
 <img width="578" height="326" alt="image" src="https://github.com/user-attachments/assets/2e0ed0f3-e475-493e-be43-89234c548aca" />
 
 
+<img width="595" height="477" alt="image" src="https://github.com/user-attachments/assets/011f563a-cd8a-4105-97e9-c9ab71ad20c3" />
+
+Web Interface
+The Flask server provides:
+
+Algorithm comparison tables
+Visual maze representation
+Performance charts
+Path visualization overlays
+
+Configuration
+Modify maze parameters in main.cpp:
+
+Maze dimensions
+Wall density
+Start/end positions
+Algorithm selection
+
+
+
 
 
