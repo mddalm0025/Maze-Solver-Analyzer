@@ -1,4 +1,4 @@
-#Maze & Graph Solver Analyzer
+Maze & Graph Solver Analyzer
 
 A comprehensive pathfinding algorithm comparison tool that analyzes performance across different maze and graph structures. Features multiple algorithms with detailed metrics and a web-based visualization interface.
 Features
